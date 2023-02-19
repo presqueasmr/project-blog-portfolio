@@ -1,65 +1,65 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>Categories on Portfolio de Auriane-Mirana</title>
-        <link>http://aurianemirana.com/categories/</link>
-        <description>Recent content in Categories on Portfolio de Auriane-Mirana</description>
+        <title>Categories on Portfolio Auriane-Mirana</title>
+        <link>https://aurianemirana.com/categories/</link>
+        <description>Recent content in Categories on Portfolio Auriane-Mirana</description>
         <generator>Hugo -- gohugo.io</generator>
-        <language>fr-fr</language>
-        <lastBuildDate>Thu, 01 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://aurianemirana.com/categories/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>Illustration &amp; Graphic design</title>
-        <link>http://aurianemirana.com/categories/illustration-graphic-design/</link>
+        <language>fr</language>
+        <lastBuildDate>Thu, 01 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://aurianemirana.com/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Illustration &amp; Graphisme</title>
+        <link>https://aurianemirana.com/categories/illustration-graphisme/</link>
         <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
         
-        <guid>http://aurianemirana.com/categories/illustration-graphic-design/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>Product &amp; web design</title>
-        <link>http://aurianemirana.com/categories/product-web-design/</link>
-        <pubDate>Thu, 17 Nov 2022 00:00:00 +0000</pubDate>
-        
-        <guid>http://aurianemirana.com/categories/product-web-design/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>Web writing</title>
-        <link>http://aurianemirana.com/categories/web-writing/</link>
-        <pubDate>Thu, 17 Nov 2022 00:00:00 +0000</pubDate>
-        
-        <guid>http://aurianemirana.com/categories/web-writing/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>Development</title>
-        <link>http://aurianemirana.com/categories/development/</link>
-        <pubDate>Fri, 10 Jun 2022 00:00:00 +0000</pubDate>
-        
-        <guid>http://aurianemirana.com/categories/development/</guid>
+        <guid>https://aurianemirana.com/categories/illustration-graphisme/</guid>
         <description></description>
         </item>
         <item>
         <title>Design web &amp; produit</title>
-        <link>http://aurianemirana.com/categories/design-web/</link>
-        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        <link>https://aurianemirana.com/categories/design-web-produit/</link>
+        <pubDate>Thu, 17 Nov 2022 00:00:00 +0000</pubDate>
         
-        <guid>http://aurianemirana.com/categories/design-web/</guid>
+        <guid>https://aurianemirana.com/categories/design-web-produit/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Rédaction web</title>
+        <link>https://aurianemirana.com/categories/r%C3%A9daction-web/</link>
+        <pubDate>Thu, 17 Nov 2022 00:00:00 +0000</pubDate>
+        
+        <guid>https://aurianemirana.com/categories/r%C3%A9daction-web/</guid>
         <description></description>
         </item>
         <item>
         <title>Développement</title>
-        <link>http://aurianemirana.com/categories/developpement-web/</link>
+        <link>https://aurianemirana.com/categories/d%C3%A9veloppement/</link>
+        <pubDate>Fri, 10 Jun 2022 00:00:00 +0000</pubDate>
+        
+        <guid>https://aurianemirana.com/categories/d%C3%A9veloppement/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Design web &amp; produit</title>
+        <link>https://aurianemirana.com/categories/design-web/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>http://aurianemirana.com/categories/developpement-web/</guid>
+        <guid>https://aurianemirana.com/categories/design-web/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Développement</title>
+        <link>https://aurianemirana.com/categories/developpement-web/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://aurianemirana.com/categories/developpement-web/</guid>
         <description></description>
         </item>
         <item>
         <title>Illustration &amp; Graphisme</title>
-        <link>http://aurianemirana.com/categories/illustration-graphisme/</link>
+        <link>https://aurianemirana.com/categories/illustration-graphisme/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>http://aurianemirana.com/categories/illustration-graphisme/</guid>
+        <guid>https://aurianemirana.com/categories/illustration-graphisme/</guid>
         <description></description>
         </item>
         

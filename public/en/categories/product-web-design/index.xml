@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Product &amp; web design on Portfolio Auriane-Mirana</title>
+        <link>https://aurianemirana.com/en/categories/product-web-design/</link>
+        <description>Recent content in Product &amp; web design on Portfolio Auriane-Mirana</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>fr</language>
+        <lastBuildDate>Thu, 17 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://aurianemirana.com/en/categories/product-web-design/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Greener_ : a hackathon by Reboot!</title>
+        <link>https://aurianemirana.com/en/post/greener-reboot/</link>
+        <pubDate>Thu, 17 Nov 2022 00:00:00 +0000</pubDate>
+        
+        <guid>https://aurianemirana.com/en/post/greener-reboot/</guid>
+        <description>&lt;img src="https://aurianemirana.com/en/post/greener-reboot/header-greener.png" alt="Featured image of post Greener_ : a hackathon by Reboot!" /&gt;&lt;h2 id=&#34;objectives&#34;&gt;Objectives&lt;/h2&gt;
+&lt;p&gt;We participated in the &lt;strong&gt;hackathon&lt;/strong&gt; organized by Reboot!. Over &lt;strong&gt;3 days&lt;/strong&gt;, our goal was to create a tool for communication, marketing or digital responsibility. The topic was &lt;strong&gt;&amp;ldquo;Here and now &amp;ldquo;&lt;/strong&gt;. Noting from our experience the &lt;strong&gt;lack of information on ecoconception&lt;/strong&gt;, we chose to treat the topic for the hackathon. The site gathers conversations we had with several professionals expert in web ecoconception. The site aims to serve as an interface and resource for amateurs and professionals looking to learn about responsible ways to create on the web. With my team, I was in charge of the &lt;strong&gt;content writing&lt;/strong&gt; and the &lt;strong&gt;interviews&lt;/strong&gt;. I also provided assistance to the &lt;strong&gt;development team&lt;/strong&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;tools-used&#34;&gt;Tools used&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Osuny CMS (based on goHugo)&lt;/li&gt;
+&lt;li&gt;Notion&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        </item>
+        <item>
+        <title>WeBike</title>
+        <link>https://aurianemirana.com/en/post/webike/</link>
+        <pubDate>Fri, 28 Oct 2022 00:00:00 +0000</pubDate>
+        
+        <guid>https://aurianemirana.com/en/post/webike/</guid>
+        <description>&lt;img src="https://aurianemirana.com/en/post/webike/header-webike.png" alt="Featured image of post WeBike" /&gt;&lt;h2 id=&#34;objectives&#34;&gt;Objectives&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;2 weeks project&lt;/strong&gt; focused exclusively on the &lt;strong&gt;design&lt;/strong&gt; and &lt;strong&gt;prototyping&lt;/strong&gt; of the V3 application (self-service bikes) of Bordeaux. We were in &lt;strong&gt;teams of 5&lt;/strong&gt;. The first week was dedicated to the &lt;strong&gt;UX design of the application&lt;/strong&gt; (user needs interview, SWOT, benchmark, functional tree structure&amp;hellip;). The second week was dedicated to the &lt;strong&gt;UI&lt;/strong&gt; (graphic charter, aesthetic choices, visual accessibility&amp;hellip;).&lt;/p&gt;
+&lt;h3 id=&#34;technologies-and-tools-used&#34;&gt;Technologies and tools used:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Figma&lt;/li&gt;
+&lt;li&gt;Trello&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;hyperlinked-image&#34;&gt;Hyperlinked image&lt;/h2&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://google.com&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;&lt;img src=&#34;https://www.google.com/images/branding/googlelogo/1x/googlelogo_light_color_272x92dp.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Google&#34;
+	
+	
+&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Internship in digital marketing at the JLO Group</title>
+        <link>https://aurianemirana.com/en/post/stage-web-marketing-developpement/</link>
+        <pubDate>Fri, 10 Jun 2022 00:00:00 +0000</pubDate>
+        
+        <guid>https://aurianemirana.com/en/post/stage-web-marketing-developpement/</guid>
+        <description>&lt;img src="https://aurianemirana.com/en/post/stage-web-marketing-developpement/jlo.png" alt="Featured image of post Internship in digital marketing at the JLO Group" /&gt;&lt;h2 id=&#34;objectives&#34;&gt;Objectives&lt;/h2&gt;
+&lt;p&gt;I had the chance to discover the business world for the first time, at the &lt;strong&gt;Groupe JLO&lt;/strong&gt; headquarters and at the Lyon branch that focuses on the development of &lt;strong&gt;digital training tools&lt;/strong&gt; and of a &lt;strong&gt;social barometer&lt;/strong&gt;. I was also able to start a project of &lt;strong&gt;site redesign&lt;/strong&gt; of a subset of the Group: &lt;strong&gt;Impact étude&lt;/strong&gt;, specialized in the support of CSE members.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Job Title&lt;/strong&gt; : Digital Marketing and Front-End Development Intern&lt;/p&gt;
+&lt;h3 id=&#34;technical-learning&#34;&gt;Technical learning&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Debugging of the main website on the CMS provided by Hubspot - Liquid JS/HTML/CSS&lt;/li&gt;
+&lt;li&gt;Creation of JS modules for the main website - absenteeism rate calculator for managers&lt;/li&gt;
+&lt;li&gt;Production of newsletters in collaboration with the graphic design team&lt;/li&gt;
+&lt;li&gt;Layout on Figma&lt;/li&gt;
+&lt;li&gt;Establishment of specifications for the redesign&lt;/li&gt;
+&lt;li&gt;Wordpress integration (static site)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;personal-learning&#34;&gt;Personal Learning&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Communication between colleagues to create a specification to develop a site that meets the requirements (popularization/empathy/organization/assurance).&lt;/li&gt;
+&lt;li&gt;Taking into account an existing graphic identity&lt;/li&gt;
+&lt;li&gt;Learning about diversity, equality at work and in hiring, ergonomics, psycho-socio risks, health at work and training (HR subjects dealt with by the JLO Group).&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        </item>
+        <item>
+        <title>Bouillotte &amp; Culotte - Workshop Project</title>
+        <link>https://aurianemirana.com/en/post/bouillotte-et-culotte/</link>
+        <pubDate>Fri, 15 Apr 2022 00:00:00 +0000</pubDate>
+        
+        <guid>https://aurianemirana.com/en/post/bouillotte-et-culotte/</guid>
+        <description>&lt;img src="https://aurianemirana.com/en/post/bouillotte-et-culotte/bouillotte-culotte.webp" alt="Featured image of post Bouillotte &amp; Culotte - Workshop Project" /&gt;&lt;h2 id=&#34;objectives&#34;&gt;Objectives&lt;/h2&gt;
+&lt;p&gt;One of the most important projects of the year in MMI is called the &lt;strong&gt;Workshop&lt;/strong&gt;. The goal is to design a digital solution that is &lt;strong&gt;useful and ethical&lt;/strong&gt;, in order to respond to a social issue (health, politics, education&amp;hellip;). In &lt;strong&gt;groups of 12&lt;/strong&gt;, we imagined, designed and developed the &lt;strong&gt;Bouillotte et Culotte&lt;/strong&gt; website and a digital marketing strategy around the project. Following our research, we realized that endometriosis is a very common disease, affecting women of all ages ( in France 1 woman in 10 is affected according to the INSERM) with a very important diagnostic errancy. We therefore decided to create a website (mobile-first) to raise awareness of endometriosis among young and very young girls, hoping to break a taboo. With my team, I was in charge of the &lt;strong&gt;front-end development&lt;/strong&gt; and the &lt;strong&gt;content creation&lt;/strong&gt; (&lt;strong&gt;research&lt;/strong&gt; and &lt;strong&gt;interviews&lt;/strong&gt; of several relatives and women with endometriosis).&lt;/p&gt;
+&lt;h2 id=&#34;tools-and-technologies-used&#34;&gt;Tools and technologies used&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Bootstrap&lt;/li&gt;
+&lt;li&gt;HTML - SASS&lt;/li&gt;
+&lt;li&gt;Jekyll&lt;/li&gt;
+&lt;li&gt;Figma&lt;/li&gt;
+&lt;li&gt;Notion&lt;/li&gt;
+&lt;li&gt;Github&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        </item>
+        <item>
+        <title>Au Bord des Rues</title>
+        <link>https://aurianemirana.com/en/post/au-bord-des-rues/</link>
+        <pubDate>Fri, 04 Mar 2022 00:00:00 +0000</pubDate>
+        
+        <guid>https://aurianemirana.com/en/post/au-bord-des-rues/</guid>
+        <description>&lt;img src="https://aurianemirana.com/en/post/au-bord-des-rues/header-au-bord-des-rues.webp" alt="Featured image of post Au Bord des Rues" /&gt;&lt;p&gt;&lt;strong&gt;Au Bord des Rues&lt;/strong&gt; is a blog &lt;strong&gt;development&lt;/strong&gt; and &lt;strong&gt;web writing&lt;/strong&gt; project about solidarity in Bordeaux.
+I took part in the writing of an &lt;strong&gt;article&lt;/strong&gt;, the &lt;strong&gt;back-end development&lt;/strong&gt; in PHP with an SQL database and the &lt;strong&gt;designing&lt;/strong&gt; of the website. We were 5 in the Nebulab team.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Technologies and tools used:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;PHP&lt;/li&gt;
+&lt;li&gt;mySQL&lt;/li&gt;
+&lt;li&gt;phpMyAdmin (local Apache server)&lt;/li&gt;
+&lt;li&gt;GitHub&lt;/li&gt;
+&lt;li&gt;Figma&lt;/li&gt;
+&lt;li&gt;Trello&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;N.B.:&lt;/strong&gt; The project was hosted on the server of the IUT and is no longer available online.&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>

@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>Posts on Portfolio de Auriane-Mirana</title>
-        <link>http://aurianemirana.com/post/</link>
-        <description>Recent content in Posts on Portfolio de Auriane-Mirana</description>
+        <title>Posts on Portfolio Auriane-Mirana</title>
+        <link>https://aurianemirana.com/post/</link>
+        <description>Recent content in Posts on Portfolio Auriane-Mirana</description>
         <generator>Hugo -- gohugo.io</generator>
-        <language>fr-fr</language>
-        <lastBuildDate>Thu, 01 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://aurianemirana.com/post/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>Video game - Les souvenirs d&#39;Orphée</title>
-        <link>http://aurianemirana.com/post/les-souvenirs-d-orphee/</link>
+        <language>fr</language>
+        <lastBuildDate>Thu, 01 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://aurianemirana.com/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Jeu Vidéo - Les souvenirs d&#39;Orphée</title>
+        <link>https://aurianemirana.com/post/les-souvenirs-d-orphee/</link>
         <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
         
-        <guid>http://aurianemirana.com/post/les-souvenirs-d-orphee/</guid>
-        <description>&lt;img src="http://aurianemirana.com/post/les-souvenirs-d-orphee/header-game.webp" alt="Featured image of post Video game - Les souvenirs d&#39;Orphée" /&gt;&lt;h2 id=&#34;objectives&#34;&gt;Objectives&lt;/h2&gt;
-&lt;p&gt;We had &lt;strong&gt;2 weeks&lt;/strong&gt; to imagine and design a video game on the subject : &lt;strong&gt;Présent composé - Plus que passé - Futur imparfait&lt;/strong&gt;. We decided to create a &lt;strong&gt;narrative platform game&lt;/strong&gt; on the theme of the &lt;strong&gt;mother-daughter relationship&lt;/strong&gt;, which was very close to our hearts. In our group of &lt;strong&gt;5 people&lt;/strong&gt;, I was in the &lt;strong&gt;art direction&lt;/strong&gt;, &lt;strong&gt;illustrations&lt;/strong&gt; and &lt;strong&gt;game design&lt;/strong&gt; team (I also participated in the writing of the script).&lt;/p&gt;
-&lt;h2 id=&#34;tools-used-&#34;&gt;Tools used :&lt;/h2&gt;
+        <guid>https://aurianemirana.com/post/les-souvenirs-d-orphee/</guid>
+        <description>&lt;img src="https://aurianemirana.com/post/les-souvenirs-d-orphee/header-game.webp" alt="Featured image of post Jeu Vidéo - Les souvenirs d&#39;Orphée" /&gt;&lt;h2 id=&#34;objectif&#34;&gt;Objectif&lt;/h2&gt;
+&lt;p&gt;Nous avions 2 semaines pour imaginer et concevoir un jeu vidéo sur le sujet : Présent composé - Plus que passé - Futur imparfait. Nous avons décidé de créer un jeu de plateforme narratif sur le thème de la relation mère-fille, qui nous tenait très à coeur. Dans notre groupe de 5 personnes, j&amp;rsquo;ai fait partie du groupe se chargeant de la direction artistique, illustrations et game design (j&amp;rsquo;ai également participé au scénario).&lt;/p&gt;
+&lt;h2 id=&#34;les-outils-utilisés-&#34;&gt;Les outils utilisés :&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Unity - C#&lt;/li&gt;
 &lt;li&gt;Photoshop &amp;amp; Illustrator&lt;/li&gt;
@@ -23,29 +23,29 @@
 </description>
         </item>
         <item>
-        <title>Greener_ : a hackathon by Reboot!</title>
-        <link>http://aurianemirana.com/post/greener-reboot/</link>
+        <title>Greener_ : un projet hackathon Reboot!</title>
+        <link>https://aurianemirana.com/post/greener-reboot/</link>
         <pubDate>Thu, 17 Nov 2022 00:00:00 +0000</pubDate>
         
-        <guid>http://aurianemirana.com/post/greener-reboot/</guid>
-        <description>&lt;img src="http://aurianemirana.com/post/greener-reboot/header-greener.png" alt="Featured image of post Greener_ : a hackathon by Reboot!" /&gt;&lt;h2 id=&#34;objectives&#34;&gt;Objectives&lt;/h2&gt;
-&lt;p&gt;We participated in the &lt;strong&gt;hackathon&lt;/strong&gt; organized by Reboot!. Over &lt;strong&gt;3 days&lt;/strong&gt;, our goal was to create a tool for communication, marketing or digital responsibility. The topic was &lt;strong&gt;&amp;ldquo;Here and now &amp;ldquo;&lt;/strong&gt;. Noting from our experience the &lt;strong&gt;lack of information on ecoconception&lt;/strong&gt;, we chose to treat the topic for the hackathon. The site gathers conversations we had with several professionals expert in web ecoconception. The site aims to serve as an interface and resource for amateurs and professionals looking to learn about responsible ways to create on the web. With my team, I was in charge of the &lt;strong&gt;content writing&lt;/strong&gt; and the &lt;strong&gt;interviews&lt;/strong&gt;. I also provided assistance to the &lt;strong&gt;development team&lt;/strong&gt;.&lt;/p&gt;
-&lt;h2 id=&#34;tools-used&#34;&gt;Tools used&lt;/h2&gt;
+        <guid>https://aurianemirana.com/post/greener-reboot/</guid>
+        <description>&lt;img src="https://aurianemirana.com/post/greener-reboot/header-greener.png" alt="Featured image of post Greener_ : un projet hackathon Reboot!" /&gt;&lt;h2 id=&#34;objectifs&#34;&gt;Objectifs&lt;/h2&gt;
+&lt;p&gt;Nous avons participé au hackathon organisé par Reboot! sur 3 jours, dont le but est de créer un outils au service de la communication, du marketing ou du numérique responsable. Le sujet était &amp;ldquo;Ici et maintenant&amp;rdquo;. Constatant de notre expérience un manque d&amp;rsquo;informations sur l&amp;rsquo;écoconception, nous avons choisi de traiter le sujet pour le hackathon. Le site regroupe des conversations que nous avons eu avec plusieurs professionnels expert en écoconception web. Le site a pour objectif de servir d&amp;rsquo;interface et de ressource aux amateurs et aux professionnels cherchant à s&amp;rsquo;informer sur la conception responsable sur le web. Je me suis chargée avec mon équipe de la rédaction du contenu et des interviews. J&amp;rsquo;ai également apporté mon aide à l&amp;rsquo;équipe développement.&lt;/p&gt;
+&lt;h2 id=&#34;outils-utilisés&#34;&gt;Outils utilisés&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;Osuny CMS (based on goHugo)&lt;/li&gt;
+&lt;li&gt;CMS Osuny (basé sur goHugo)&lt;/li&gt;
 &lt;li&gt;Notion&lt;/li&gt;
 &lt;/ul&gt;
 </description>
         </item>
         <item>
         <title>WeBike</title>
-        <link>http://aurianemirana.com/post/we-bike/</link>
+        <link>https://aurianemirana.com/post/webike/</link>
         <pubDate>Fri, 28 Oct 2022 00:00:00 +0000</pubDate>
         
-        <guid>http://aurianemirana.com/post/we-bike/</guid>
-        <description>&lt;img src="http://aurianemirana.com/post/we-bike/header-webike.png" alt="Featured image of post WeBike" /&gt;&lt;h2 id=&#34;objectives&#34;&gt;Objectives&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;2 weeks project&lt;/strong&gt; focused exclusively on the &lt;strong&gt;design&lt;/strong&gt; and &lt;strong&gt;prototyping&lt;/strong&gt; of the V3 application (self-service bikes) of Bordeaux. We were in &lt;strong&gt;teams of 5&lt;/strong&gt;. The first week was dedicated to the &lt;strong&gt;UX design of the application&lt;/strong&gt; (user needs interview, SWOT, benchmark, functional tree structure&amp;hellip;). The second week was dedicated to the &lt;strong&gt;UI&lt;/strong&gt; (graphic charter, aesthetic choices, visual accessibility&amp;hellip;).&lt;/p&gt;
-&lt;h3 id=&#34;technologies-and-tools-used&#34;&gt;Technologies and tools used:&lt;/h3&gt;
+        <guid>https://aurianemirana.com/post/webike/</guid>
+        <description>&lt;img src="https://aurianemirana.com/post/webike/header-webike.png" alt="Featured image of post WeBike" /&gt;&lt;h2 id=&#34;objectifs&#34;&gt;Objectifs&lt;/h2&gt;
+&lt;p&gt;Projet de &lt;strong&gt;2 semaines&lt;/strong&gt; concentré exclusivement sur le &lt;strong&gt;maquettage&lt;/strong&gt; et &lt;strong&gt;prototypage&lt;/strong&gt; de l&amp;rsquo;application V3 (vélos en libre service) de Bordeaux. Nous étions en &lt;strong&gt;équipes de 5&lt;/strong&gt;. La première semaine était dédiée au &lt;strong&gt;design UX de l&amp;rsquo;application&lt;/strong&gt;(interview besoins utilisateurs, SWOT, benchmark, arborescence fonctionnelle&amp;hellip;). La deuxième semaine était consacré à l&amp;rsquo;&lt;strong&gt;UI&lt;/strong&gt; (charte graphique, choix esthétiques, accessibilité visuelle&amp;hellip;).&lt;/p&gt;
+&lt;h3 id=&#34;les-technologies-et-outils-utilisés-&#34;&gt;Les technologies et outils utilisés :&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;Figma&lt;/li&gt;
 &lt;li&gt;Trello&lt;/li&gt;
@@ -65,40 +65,40 @@
 </description>
         </item>
         <item>
-        <title>Internship in digital marketing at the JLO Group</title>
-        <link>http://aurianemirana.com/post/stage-web-marketing-developpement/</link>
+        <title>Stage au Groupe JLO en marketing digital</title>
+        <link>https://aurianemirana.com/post/stage-web-marketing-developpement/</link>
         <pubDate>Fri, 10 Jun 2022 00:00:00 +0000</pubDate>
         
-        <guid>http://aurianemirana.com/post/stage-web-marketing-developpement/</guid>
-        <description>&lt;img src="http://aurianemirana.com/post/stage-web-marketing-developpement/jlo.png" alt="Featured image of post Internship in digital marketing at the JLO Group" /&gt;&lt;h2 id=&#34;objectives&#34;&gt;Objectives&lt;/h2&gt;
-&lt;p&gt;I had the chance to discover the business world for the first time, at the &lt;strong&gt;Groupe JLO&lt;/strong&gt; headquarters and at the Lyon branch that focuses on the development of &lt;strong&gt;digital training tools&lt;/strong&gt; and of a &lt;strong&gt;social barometer&lt;/strong&gt;. I was also able to start a project of &lt;strong&gt;site redesign&lt;/strong&gt; of a subset of the Group: &lt;strong&gt;Impact étude&lt;/strong&gt;, specialized in the support of CSE members.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Job Title&lt;/strong&gt; : Digital Marketing and Front-End Development Intern&lt;/p&gt;
-&lt;h3 id=&#34;technical-learning&#34;&gt;Technical learning&lt;/h3&gt;
+        <guid>https://aurianemirana.com/post/stage-web-marketing-developpement/</guid>
+        <description>&lt;img src="https://aurianemirana.com/post/stage-web-marketing-developpement/jlo.png" alt="Featured image of post Stage au Groupe JLO en marketing digital" /&gt;&lt;h2 id=&#34;objectifs&#34;&gt;Objectifs&lt;/h2&gt;
+&lt;p&gt;J&amp;rsquo;ai eu la chance de découvrir le monde de l&amp;rsquo;entreprise pour la première fois, au siège du &lt;strong&gt;Groupe JLO&lt;/strong&gt; et à l&amp;rsquo;annexe de Lyon concentrée sur le développement d&amp;rsquo;&lt;strong&gt;outils numériques de formations&lt;/strong&gt; et d&amp;rsquo;un &lt;strong&gt;baromètre social&lt;/strong&gt;. J&amp;rsquo;ai également pu démarrer un projet de &lt;strong&gt;refonte de site&lt;/strong&gt; d&amp;rsquo;un sous-sensemble du Groupe : &lt;strong&gt;Impact étude&lt;/strong&gt;, spécialisé en accompagnement de membres de CSE.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Intitulé de poste&lt;/strong&gt; : stagiaire en marketing digital et développement Front-End&lt;/p&gt;
+&lt;h3 id=&#34;apprentissages-techniques&#34;&gt;Apprentissages Techniques&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;Debugging of the main website on the CMS provided by Hubspot - Liquid JS/HTML/CSS&lt;/li&gt;
-&lt;li&gt;Creation of JS modules for the main website - absenteeism rate calculator for managers&lt;/li&gt;
-&lt;li&gt;Production of newsletters in collaboration with the graphic design team&lt;/li&gt;
-&lt;li&gt;Layout on Figma&lt;/li&gt;
-&lt;li&gt;Establishment of specifications for the redesign&lt;/li&gt;
-&lt;li&gt;Wordpress integration (static site)&lt;/li&gt;
+&lt;li&gt;Debuggage du site principal sur le CMS fournit par Hubspot - Liquid JS/HTML/CSS&lt;/li&gt;
+&lt;li&gt;Créations de modules JS pour le site principal - calculateur de taux d&amp;rsquo;absentéisme pour les managers&lt;/li&gt;
+&lt;li&gt;Production de newsletters en collaboration avec l&amp;rsquo;équipe des graphistes&lt;/li&gt;
+&lt;li&gt;Maquettage sur Figma&lt;/li&gt;
+&lt;li&gt;Mise en place d&amp;rsquo;un cahier des charges pour la refonte&lt;/li&gt;
+&lt;li&gt;Intégration Wordpress (site statique)&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id=&#34;personal-learning&#34;&gt;Personal Learning&lt;/h3&gt;
+&lt;h3 id=&#34;apprentissages-personnels&#34;&gt;Apprentissages Personnels&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;Communication between colleagues to create a specification to develop a site that meets the requirements (popularization/empathy/organization/assurance).&lt;/li&gt;
-&lt;li&gt;Taking into account an existing graphic identity&lt;/li&gt;
-&lt;li&gt;Learning about diversity, equality at work and in hiring, ergonomics, psycho-socio risks, health at work and training (HR subjects dealt with by the JLO Group).&lt;/li&gt;
+&lt;li&gt;Communication entre collègues pour créer un cahier des charges afin de développer un site répondant aux exigences (vulgarisation/empathie/organisation/assurance).&lt;/li&gt;
+&lt;li&gt;Prise en compte d&amp;rsquo;une identité graphique déjà existante&lt;/li&gt;
+&lt;li&gt;Apprentissages des problématiques de diversité, égalité au travail et dans l&amp;rsquo;embauche, d&amp;rsquo;ergonomie, de risques psycho-socio, de santé au travail et de formation (sujets RH traités par le Groupe JLO).&lt;/li&gt;
 &lt;/ul&gt;
 </description>
         </item>
         <item>
-        <title>Bouillotte &amp; Culotte - Workshop Project</title>
-        <link>http://aurianemirana.com/post/bouillotte-et-culotte/</link>
+        <title>Bouillotte &amp; Culotte - Projet de Workshop</title>
+        <link>https://aurianemirana.com/post/bouillotte-et-culotte/</link>
         <pubDate>Fri, 15 Apr 2022 00:00:00 +0000</pubDate>
         
-        <guid>http://aurianemirana.com/post/bouillotte-et-culotte/</guid>
-        <description>&lt;img src="http://aurianemirana.com/post/bouillotte-et-culotte/bouillotte-culotte.webp" alt="Featured image of post Bouillotte &amp; Culotte - Workshop Project" /&gt;&lt;h2 id=&#34;objectives&#34;&gt;Objectives&lt;/h2&gt;
-&lt;p&gt;One of the most important projects of the year in MMI is called the &lt;strong&gt;Workshop&lt;/strong&gt;. The goal is to design a digital solution that is &lt;strong&gt;useful and ethical&lt;/strong&gt;, in order to respond to a social issue (health, politics, education&amp;hellip;). In &lt;strong&gt;groups of 12&lt;/strong&gt;, we imagined, designed and developed the &lt;strong&gt;Bouillotte et Culotte&lt;/strong&gt; website and a digital marketing strategy around the project. Following our research, we realized that endometriosis is a very common disease, affecting women of all ages ( in France 1 woman in 10 is affected according to the INSERM) with a very important diagnostic errancy. We therefore decided to create a website (mobile-first) to raise awareness of endometriosis among young and very young girls, hoping to break a taboo. With my team, I was in charge of the &lt;strong&gt;front-end development&lt;/strong&gt; and the &lt;strong&gt;content creation&lt;/strong&gt; (&lt;strong&gt;research&lt;/strong&gt; and &lt;strong&gt;interviews&lt;/strong&gt; of several relatives and women with endometriosis).&lt;/p&gt;
-&lt;h2 id=&#34;tools-and-technologies-used&#34;&gt;Tools and technologies used&lt;/h2&gt;
+        <guid>https://aurianemirana.com/post/bouillotte-et-culotte/</guid>
+        <description>&lt;img src="https://aurianemirana.com/post/bouillotte-et-culotte/bouillotte-culotte.webp" alt="Featured image of post Bouillotte &amp; Culotte - Projet de Workshop" /&gt;&lt;h2 id=&#34;objectifs&#34;&gt;Objectifs&lt;/h2&gt;
+&lt;p&gt;Un des projets les plus importants de l&amp;rsquo;année en MMI s&amp;rsquo;appelle le &lt;strong&gt;Workshop&lt;/strong&gt;. Le but est de concevoir une solution numérique &lt;strong&gt;utile et éthique&lt;/strong&gt;, afin de répondre à une problématique de société (santé, politique, éducation&amp;hellip; ). Par &lt;strong&gt;groupes de 12&lt;/strong&gt;, nous avons pensé, conçu et développé le site &lt;strong&gt;Bouillotte et Culotte&lt;/strong&gt; et une stratégie marketing digital autour du projet. A la suite de nos recherches, nous avons constaté que l&amp;rsquo;endométriose est une maladie très courante, touchant des femmes de tout âge (1 femme sur 10 est atteinte en France d&amp;rsquo;après l&amp;rsquo;INSERM) mais connaissant une érrance de diagnostique très importante. Nous avons donc décidé de créer un site (mobile-first) visant à sensibiliser les jeunes et très jeunes filles sur l&amp;rsquo;endométriose, en espérant briser un tabou. Je me suis chargé avec mon équipe du &lt;strong&gt;développement front-end&lt;/strong&gt; et de la &lt;strong&gt;création de contenu&lt;/strong&gt; (&lt;strong&gt;recherches&lt;/strong&gt; et &lt;strong&gt;interviews&lt;/strong&gt; de plusiuers proches et femmes atteintes d&amp;rsquo;endométriose).&lt;/p&gt;
+&lt;h2 id=&#34;outils-et-technologies-utilisées&#34;&gt;Outils et technologies utilisées&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Bootstrap&lt;/li&gt;
 &lt;li&gt;HTML - SASS&lt;/li&gt;
@@ -111,33 +111,33 @@
         </item>
         <item>
         <title>Au Bord des Rues</title>
-        <link>http://aurianemirana.com/post/au-bord-des-rues/</link>
+        <link>https://aurianemirana.com/post/au-bord-des-rues/</link>
         <pubDate>Fri, 04 Mar 2022 00:00:00 +0000</pubDate>
         
-        <guid>http://aurianemirana.com/post/au-bord-des-rues/</guid>
-        <description>&lt;img src="http://aurianemirana.com/post/au-bord-des-rues/header-au-bord-des-rues.webp" alt="Featured image of post Au Bord des Rues" /&gt;&lt;p&gt;&lt;strong&gt;Au Bord des Rues&lt;/strong&gt; is a blog &lt;strong&gt;development&lt;/strong&gt; and &lt;strong&gt;web writing&lt;/strong&gt; project about solidarity in Bordeaux.
-I took part in the writing of an &lt;strong&gt;article&lt;/strong&gt;, the &lt;strong&gt;back-end development&lt;/strong&gt; in PHP with an SQL database and the &lt;strong&gt;designing&lt;/strong&gt; of the website. We were 5 in the Nebulab team.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Technologies and tools used:&lt;/strong&gt;&lt;/p&gt;
+        <guid>https://aurianemirana.com/post/au-bord-des-rues/</guid>
+        <description>&lt;img src="https://aurianemirana.com/post/au-bord-des-rues/header-au-bord-des-rues.webp" alt="Featured image of post Au Bord des Rues" /&gt;&lt;p&gt;&lt;strong&gt;Au Bord des Rues&lt;/strong&gt; est un projet de création de blog &lt;em&gt;from scratch&lt;/em&gt; et &lt;strong&gt;rédaction web&lt;/strong&gt; sur le sujet de la solidarité à Bordeaux.
+J&amp;rsquo;ai participé à l&amp;rsquo;écriture d&amp;rsquo;un &lt;strong&gt;article&lt;/strong&gt;, au &lt;strong&gt;développement back-end&lt;/strong&gt; en PHP avec une base de donnée SQL et au &lt;strong&gt;design&lt;/strong&gt;. Nous étions 5 dans l&amp;rsquo;équipe Nébulab.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Technologies et outils utilisés :&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;PHP&lt;/li&gt;
 &lt;li&gt;mySQL&lt;/li&gt;
-&lt;li&gt;phpMyAdmin (local Apache server)&lt;/li&gt;
+&lt;li&gt;phpMyAdmin (serveur local Apache)&lt;/li&gt;
 &lt;li&gt;GitHub&lt;/li&gt;
 &lt;li&gt;Figma&lt;/li&gt;
 &lt;li&gt;Trello&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;N.B.:&lt;/strong&gt; The project was hosted on the server of the IUT and is no longer available online.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;N.B. :&lt;/strong&gt; Le projet était hébergé sur le serveur de l&amp;rsquo;IUT il n&amp;rsquo;est plus disponible en ligne aujourd&amp;rsquo;hui.&lt;/p&gt;
 </description>
         </item>
         <item>
-        <title>Infographic pitch for Yooji</title>
-        <link>http://aurianemirana.com/post/infographic-yooji/</link>
+        <title>Pitch infographie pour Yooji</title>
+        <link>https://aurianemirana.com/post/infographie-yooji/</link>
         <pubDate>Fri, 28 Jan 2022 00:00:00 +0000</pubDate>
         
-        <guid>http://aurianemirana.com/post/infographic-yooji/</guid>
-        <description>&lt;img src="http://aurianemirana.com/post/infographic-yooji/header-yooji.png" alt="Featured image of post Infographic pitch for Yooji" /&gt;&lt;h2 id=&#34;objectives&#34;&gt;Objectives&lt;/h2&gt;
-&lt;p&gt;In &lt;strong&gt;groups of 5&lt;/strong&gt; we organized ourselves for two renderings, two infographics. I was in charge, with another student of the &lt;strong&gt;design of the infographics&lt;/strong&gt; (graphic charter, layout&amp;hellip;), the &lt;strong&gt;illustrations&lt;/strong&gt; and the &lt;strong&gt;research&lt;/strong&gt;. The goal was to synthesize our research on the start-up and to make an &lt;strong&gt;attractive visual pitch&lt;/strong&gt;, in order to convince investors.&lt;/p&gt;
-&lt;h2 id=&#34;tools-used-&#34;&gt;Tools used :&lt;/h2&gt;
+        <guid>https://aurianemirana.com/post/infographie-yooji/</guid>
+        <description>&lt;img src="https://aurianemirana.com/post/infographie-yooji/header-yooji.png" alt="Featured image of post Pitch infographie pour Yooji" /&gt;&lt;h2 id=&#34;objectifs&#34;&gt;Objectifs&lt;/h2&gt;
+&lt;p&gt;Par &lt;strong&gt;groupes de 5&lt;/strong&gt; nous nous sommes organisés pour deux rendus, deux infographies. Je me suis chargée avec une autre étudiante du &lt;strong&gt;design de l&amp;rsquo;infographie&lt;/strong&gt; (charte graphique, agencement&amp;hellip;), des &lt;strong&gt;illustrations&lt;/strong&gt; et des &lt;strong&gt;recherches&lt;/strong&gt;. Le but était de synthétiser nos recherches sur la start-up et de rendre un &lt;strong&gt;pitch visuel attrayant&lt;/strong&gt;, dans le but de convaincre des investisseurs.&lt;/p&gt;
+&lt;h2 id=&#34;outils-utilisés&#34;&gt;Outils utilisés&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Figma&lt;/li&gt;
 &lt;li&gt;Photoshop&lt;/li&gt;
@@ -146,14 +146,14 @@ I took part in the writing of an &lt;strong&gt;article&lt;/strong&gt;, the &lt;s
 </description>
         </item>
         <item>
-        <title>Motion design - Vulgarization of a sociology theory</title>
-        <link>http://aurianemirana.com/post/motion-design-sociology/</link>
+        <title>Motion design - Vulgarisation de théorie de sociologie</title>
+        <link>https://aurianemirana.com/post/motion-design-sociologie/</link>
         <pubDate>Fri, 03 Dec 2021 00:00:00 +0000</pubDate>
         
-        <guid>http://aurianemirana.com/post/motion-design-sociology/</guid>
-        <description>&lt;img src="http://aurianemirana.com/post/motion-design-sociology/motion-design-header.webp" alt="Featured image of post Motion design - Vulgarization of a sociology theory" /&gt;&lt;h2 id=&#34;objectives&#34;&gt;Objectives&lt;/h2&gt;
-&lt;p&gt;We had &lt;strong&gt;2 weeks&lt;/strong&gt; by &lt;strong&gt;groups of 2&lt;/strong&gt;, to imagine, conceive and add sound to a motion design with the purpose to &lt;strong&gt;vulgarize a sociological theory of William I. Thomas&lt;/strong&gt;. We learned how to create moodboards, storyboard and script our short film. It was also our first approach to After Effects. We opted for the absurd fusion of the Harry Potter and Star Wars universes in order to capture the audience&amp;rsquo;s attention while remaining humorous.&lt;/p&gt;
-&lt;h2 id=&#34;tools-used&#34;&gt;Tools used:&lt;/h2&gt;
+        <guid>https://aurianemirana.com/post/motion-design-sociologie/</guid>
+        <description>&lt;img src="https://aurianemirana.com/post/motion-design-sociologie/motion-design-header.webp" alt="Featured image of post Motion design - Vulgarisation de théorie de sociologie" /&gt;&lt;h2 id=&#34;objectif&#34;&gt;Objectif&lt;/h2&gt;
+&lt;p&gt;Nous avions 2 semaines par groupe de 2, pour imaginer, concevoir et sonoriser un motion design dans le but de vulgariser une théorie sociologique de William I. Thomas. Nous avons appris à créer des moodboard, à storyboarder et à scénariser notre petit court-métrage. C&amp;rsquo;était également notre première approche d&amp;rsquo;After Effects. Nous avons opté pour la fusion absurde de l&amp;rsquo;univers d&amp;rsquo;Harry Potter et de Star Wars afin de capter l&amp;rsquo;attention de l&amp;rsquo;audience tout en restant humoritique.&lt;/p&gt;
+&lt;h2 id=&#34;les-outils-utilisés-&#34;&gt;Les outils utilisés :&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Photoshop&lt;/li&gt;
 &lt;li&gt;Illustrator&lt;/li&gt;

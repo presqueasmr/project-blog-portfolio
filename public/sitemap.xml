@@ -1,69 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <url>
-    <loc>http://aurianemirana.com/</loc>
-    <lastmod>2022-12-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://aurianemirana.com/page/about/</loc>
-    <lastmod>2020-10-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://aurianemirana.com/page/</loc>
-    <lastmod>2022-05-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://aurianemirana.com/categories/</loc>
-    <lastmod>2022-12-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://aurianemirana.com/categories/illustration-graphic-design/</loc>
-    <lastmod>2022-12-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://aurianemirana.com/post/</loc>
-    <lastmod>2022-12-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://aurianemirana.com/post/les-souvenirs-d-orphee/</loc>
-    <lastmod>2022-12-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://aurianemirana.com/post/greener-reboot/</loc>
-    <lastmod>2022-11-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://aurianemirana.com/categories/product-web-design/</loc>
-    <lastmod>2022-11-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://aurianemirana.com/categories/web-writing/</loc>
-    <lastmod>2022-11-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://aurianemirana.com/post/we-bike/</loc>
-    <lastmod>2022-10-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://aurianemirana.com/categories/development/</loc>
-    <lastmod>2022-06-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://aurianemirana.com/post/stage-web-marketing-developpement/</loc>
-    <lastmod>2022-06-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://aurianemirana.com/page/archives/</loc>
-    <lastmod>2022-05-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://aurianemirana.com/post/bouillotte-et-culotte/</loc>
-    <lastmod>2022-04-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://aurianemirana.com/post/au-bord-des-rues/</loc>
-    <lastmod>2022-03-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://aurianemirana.com/post/infographic-yooji/</loc>
-    <lastmod>2022-01-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://aurianemirana.com/post/motion-design-sociology/</loc>
-    <lastmod>2021-12-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://aurianemirana.com/categories/design-web/</loc>
-  </url><url>
-    <loc>http://aurianemirana.com/categories/developpement-web/</loc>
-  </url><url>
-    <loc>http://aurianemirana.com/categories/illustration-graphisme/</loc>
-  </url><url>
-    <loc>http://aurianemirana.com/page/search/</loc>
-  </url><url>
-    <loc>http://aurianemirana.com/tags/</loc>
-  </url>
-</urlset>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <sitemap>
+    <loc>https://aurianemirana.com/en/sitemap.xml</loc>
+    
+      <lastmod>2022-12-19T00:00:00+00:00</lastmod>
+    
+  </sitemap>
+  
+  <sitemap>
+    <loc>https://aurianemirana.com/fr/sitemap.xml</loc>
+    
+      <lastmod>2023-01-05T00:00:00+00:00</lastmod>
+    
+  </sitemap>
+  
+</sitemapindex>

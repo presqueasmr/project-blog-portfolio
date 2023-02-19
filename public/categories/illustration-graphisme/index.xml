@@ -1,10 +1,60 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>Illustration &amp; Graphisme on Portfolio de Auriane-Mirana</title>
-        <link>http://aurianemirana.com/categories/illustration-graphisme/</link>
-        <description>Recent content in Illustration &amp; Graphisme on Portfolio de Auriane-Mirana</description>
+        <title>Illustration &amp; Graphisme on Portfolio Auriane-Mirana</title>
+        <link>https://aurianemirana.com/categories/illustration-graphisme/</link>
+        <description>Recent content in Illustration &amp; Graphisme on Portfolio Auriane-Mirana</description>
         <generator>Hugo -- gohugo.io</generator>
-        <language>fr-fr</language><atom:link href="http://aurianemirana.com/categories/illustration-graphisme/index.xml" rel="self" type="application/rss+xml" />
+        <language>fr</language>
+        <lastBuildDate>Thu, 01 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://aurianemirana.com/categories/illustration-graphisme/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Jeu Vidéo - Les souvenirs d&#39;Orphée</title>
+        <link>https://aurianemirana.com/post/les-souvenirs-d-orphee/</link>
+        <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
+        
+        <guid>https://aurianemirana.com/post/les-souvenirs-d-orphee/</guid>
+        <description>&lt;img src="https://aurianemirana.com/post/les-souvenirs-d-orphee/header-game.webp" alt="Featured image of post Jeu Vidéo - Les souvenirs d&#39;Orphée" /&gt;&lt;h2 id=&#34;objectif&#34;&gt;Objectif&lt;/h2&gt;
+&lt;p&gt;Nous avions 2 semaines pour imaginer et concevoir un jeu vidéo sur le sujet : Présent composé - Plus que passé - Futur imparfait. Nous avons décidé de créer un jeu de plateforme narratif sur le thème de la relation mère-fille, qui nous tenait très à coeur. Dans notre groupe de 5 personnes, j&amp;rsquo;ai fait partie du groupe se chargeant de la direction artistique, illustrations et game design (j&amp;rsquo;ai également participé au scénario).&lt;/p&gt;
+&lt;h2 id=&#34;les-outils-utilisés-&#34;&gt;Les outils utilisés :&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Unity - C#&lt;/li&gt;
+&lt;li&gt;Photoshop &amp;amp; Illustrator&lt;/li&gt;
+&lt;li&gt;Notion&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        </item>
+        <item>
+        <title>Pitch infographie pour Yooji</title>
+        <link>https://aurianemirana.com/post/infographie-yooji/</link>
+        <pubDate>Fri, 28 Jan 2022 00:00:00 +0000</pubDate>
+        
+        <guid>https://aurianemirana.com/post/infographie-yooji/</guid>
+        <description>&lt;img src="https://aurianemirana.com/post/infographie-yooji/header-yooji.png" alt="Featured image of post Pitch infographie pour Yooji" /&gt;&lt;h2 id=&#34;objectifs&#34;&gt;Objectifs&lt;/h2&gt;
+&lt;p&gt;Par &lt;strong&gt;groupes de 5&lt;/strong&gt; nous nous sommes organisés pour deux rendus, deux infographies. Je me suis chargée avec une autre étudiante du &lt;strong&gt;design de l&amp;rsquo;infographie&lt;/strong&gt; (charte graphique, agencement&amp;hellip;), des &lt;strong&gt;illustrations&lt;/strong&gt; et des &lt;strong&gt;recherches&lt;/strong&gt;. Le but était de synthétiser nos recherches sur la start-up et de rendre un &lt;strong&gt;pitch visuel attrayant&lt;/strong&gt;, dans le but de convaincre des investisseurs.&lt;/p&gt;
+&lt;h2 id=&#34;outils-utilisés&#34;&gt;Outils utilisés&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Figma&lt;/li&gt;
+&lt;li&gt;Photoshop&lt;/li&gt;
+&lt;li&gt;Illustrator&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        </item>
+        <item>
+        <title>Motion design - Vulgarisation de théorie de sociologie</title>
+        <link>https://aurianemirana.com/post/motion-design-sociologie/</link>
+        <pubDate>Fri, 03 Dec 2021 00:00:00 +0000</pubDate>
+        
+        <guid>https://aurianemirana.com/post/motion-design-sociologie/</guid>
+        <description>&lt;img src="https://aurianemirana.com/post/motion-design-sociologie/motion-design-header.webp" alt="Featured image of post Motion design - Vulgarisation de théorie de sociologie" /&gt;&lt;h2 id=&#34;objectif&#34;&gt;Objectif&lt;/h2&gt;
+&lt;p&gt;Nous avions 2 semaines par groupe de 2, pour imaginer, concevoir et sonoriser un motion design dans le but de vulgariser une théorie sociologique de William I. Thomas. Nous avons appris à créer des moodboard, à storyboarder et à scénariser notre petit court-métrage. C&amp;rsquo;était également notre première approche d&amp;rsquo;After Effects. Nous avons opté pour la fusion absurde de l&amp;rsquo;univers d&amp;rsquo;Harry Potter et de Star Wars afin de capter l&amp;rsquo;attention de l&amp;rsquo;audience tout en restant humoritique.&lt;/p&gt;
+&lt;h2 id=&#34;les-outils-utilisés-&#34;&gt;Les outils utilisés :&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Photoshop&lt;/li&gt;
+&lt;li&gt;Illustrator&lt;/li&gt;
+&lt;li&gt;After Effects&lt;/li&gt;
+&lt;li&gt;Premiere Pro&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        </item>
+        
     </channel>
 </rss>
