@@ -1,0 +1,33 @@
+.sidebar header .sub-subtitle{
+    
+    font-family: 'Shrikhand', cursive;
+}
+
+.article-title-wrapper .article-title a{
+    font-family: 'Shrikhand', cursive;
+    letter-spacing: .5px;
+    font-weight: 200;
+}
+
+.article-content{
+    .link{
+        color: #8ed190;
+    }
+}
+
+.article-category {
+    a {
+        color: var(--body-text-color);
+        background-color: #ce5a21;
+        padding: 8px 16px;
+        border-radius: var(--tag-border-radius);
+        display: inline-block;
+        font-size: 1.4rem;
+        transition: background-color 0.5s ease;
+
+        &:hover {
+            color: var(--accent-text-color);
+            background-color: #e4804e;
+        }
+    }
+}
