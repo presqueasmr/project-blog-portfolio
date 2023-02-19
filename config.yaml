@@ -10,12 +10,12 @@ languages:
     fr:
         languageName: Français
         title: Portfolio Auriane-Mirana
-        description: Portfolio de Auri V1
+        description: Portfolio d'Auriane-Mirana étudiante en design UI et UX, en web développement et en création graphique. Actuellement à la recherche d'un stage entre le 17 avril et le 30 mars 2023. 
         weight: 1
     en:
         languageName: English
         title: Portfolio Auriane-Mirana
-        description: Auri's portfolio V1
+        description: Auri's portfolio student in UX & UI design, web development and graphic design. Currently looking for an internship between the 17th of april and the 30th of march 2023.
         weight: 1
     
   
@@ -45,7 +45,6 @@ params:
     rssFullContent: true
     favicon:  # e.g.: favicon placed in `static/favicon.ico` of your site folder, then set this field to `/favicon.ico` (`/` is necessary)
 
-    description: Portfolio d'Auriane-Mirana étudiante en design UI et UX, en web développement et en création graphique. Actuellement à la recherche d'un stage entre le 17 avril et le 30 mars. 
 
     footer:
         since: 2022
