@@ -45,6 +45,8 @@ params:
     rssFullContent: true
     favicon:  # e.g.: favicon placed in `static/favicon.ico` of your site folder, then set this field to `/favicon.ico` (`/` is necessary)
 
+    description: Portfolio d'Auriane-Mirana étudiante en design UI et UX, en web développement et en création graphique. Actuellement à la recherche d'un stage entre le 17 avril et le 30 mars. 
+
     footer:
         since: 2022
         customText: Premier projet
