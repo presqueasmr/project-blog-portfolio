@@ -24,7 +24,3 @@ Projet de **2 semaines** concentré exclusivement sur le **maquettage** et **pro
 * Figma
 * Trello
 
-
-## Hyperlinked image
-
-[![Google](https://www.google.com/images/branding/googlelogo/1x/googlelogo_light_color_272x92dp.png)](https://google.com)
