@@ -1,7 +1,7 @@
 ---
 title: Easy N Tech
 description: Design d'un outils numérique destiné à la gendarmerie et facilitation des actions Ntech
-date: 2023-10-01
+date: 2023-01-02
 slug: easy-n-tech-gendarmerie
 image: 
 categories:
