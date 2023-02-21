@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://aurianemirana.com/</loc>
-    <lastmod>2023-01-05T00:00:00+00:00</lastmod>
+    <lastmod>2023-02-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -13,6 +13,51 @@
                 rel="alternate"
                 hreflang="fr"
                 href="https://aurianemirana.com/"
+                />
+  </url><url>
+    <loc>https://aurianemirana.com/post/caravage-bacchanight/</loc>
+    <lastmod>2023-02-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://aurianemirana.com/categories/</loc>
+    <lastmod>2023-02-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://aurianemirana.com/en/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://aurianemirana.com/categories/"
+                />
+  </url><url>
+    <loc>https://aurianemirana.com/categories/design-web-produit/</loc>
+    <lastmod>2023-02-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://aurianemirana.com/categories/illustration-graphisme/</loc>
+    <lastmod>2023-02-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://aurianemirana.com/categories/illustration-graphisme/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://aurianemirana.com/categories/illustration-graphisme/"
+                />
+  </url><url>
+    <loc>https://aurianemirana.com/post/</loc>
+    <lastmod>2023-02-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://aurianemirana.com/en/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://aurianemirana.com/post/"
                 />
   </url><url>
     <loc>https://aurianemirana.com/a-propos/</loc>
@@ -41,32 +86,6 @@
                 href="https://aurianemirana.com/page/"
                 />
   </url><url>
-    <loc>https://aurianemirana.com/categories/</loc>
-    <lastmod>2022-12-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://aurianemirana.com/en/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://aurianemirana.com/categories/"
-                />
-  </url><url>
-    <loc>https://aurianemirana.com/categories/illustration-graphisme/</loc>
-    <lastmod>2022-12-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://aurianemirana.com/categories/illustration-graphisme/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://aurianemirana.com/categories/illustration-graphisme/"
-                />
-  </url><url>
     <loc>https://aurianemirana.com/post/les-souvenirs-d-orphee/</loc>
     <lastmod>2022-12-01T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -79,22 +98,6 @@
                 hreflang="fr"
                 href="https://aurianemirana.com/post/les-souvenirs-d-orphee/"
                 />
-  </url><url>
-    <loc>https://aurianemirana.com/post/</loc>
-    <lastmod>2022-12-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://aurianemirana.com/en/post/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://aurianemirana.com/post/"
-                />
-  </url><url>
-    <loc>https://aurianemirana.com/categories/design-web-produit/</loc>
-    <lastmod>2022-11-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aurianemirana.com/post/greener-reboot/</loc>
     <lastmod>2022-11-17T00:00:00+00:00</lastmod>
