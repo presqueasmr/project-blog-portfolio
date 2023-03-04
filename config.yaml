@@ -12,11 +12,25 @@ languages:
         title: Portfolio Auriane-Mirana
         description: Portfolio d'Auriane-Mirana étudiante en design UI et UX, en web développement et en création graphique. Actuellement à la recherche d'un stage entre le 17 avril et le 30 mars 2023. 
         weight: 1
+        sidebar: 
+            subtitle: Bonjour ! Je m’appelle Auriane-Mirana Sicard-Razaka, et je suis une étudiante sur la voie du succès entre Bordeaux et Lyon.
+            emoji: 💻
+            avatar:
+                enabled: true
+                local: true
+                src: img/avatar.png
     en:
         languageName: English
         title: Portfolio Auriane-Mirana
         description: Auri's portfolio student in UX & UI design, web development and graphic design. Currently looking for an internship between the 17th of april and the 30th of march 2023.
         weight: 1
+        sidebar:
+            subtitle: Hi ! My name is Auriane-Mirana Sicard-Razaka, and I'm a student on the path to success between Bordeaux and Lyon.
+            emoji: 💻
+            avatar:
+                enabled: true
+                local: true
+                src: img/avatar.png
     
   
 
@@ -56,11 +70,7 @@ params:
 
     sidebar:
         emoji: 💻
-        subtitle: Bonjour ! Je m’appelle Auriane-Mirana Sicard-Razaka, et je suis une étudiante sur la voie du succès entre Bordeaux et Lyon.
-        
-        
-            
-        
+   
         avatar:
             enabled: true
             local: true
@@ -134,6 +144,9 @@ menu:
           url: https://www.behance.net/aurianesicard
           params:
               icon: brand-behance
+        # - mail:
+        #     icon: mail
+            
 
 related:
     includeNewer: true

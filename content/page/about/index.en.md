@@ -23,7 +23,7 @@ Since 2021 I bounce back and forth between Bordeaux and Lyon, to study at the Bo
 
 Besides my passion for digital creation, I am overall a thourough enthusiast of creation in all its aspects (music, drawing, cinema, video games...)
 
--LINK PROJET AVEC ETIQUETTE AUTRES- / Article classant toutes catégories mes trucs préférés
+
 
 **Don't hesitate to get in touch  :**
 
@@ -34,4 +34,4 @@ Besides my passion for digital creation, I am overall a thourough enthusiast of 
 
 * Behance : https://www.behance.net/aurianesicard
 * Github : https://github.com/presqueasmr
-* (Ancien portfolio : )
+* Ancien portfolio : https://amsr-portfolio.netlify.app

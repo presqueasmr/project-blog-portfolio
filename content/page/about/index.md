@@ -22,7 +22,6 @@ Depuis 2021, je vadrouille entre Bordeaux et Lyon, pour étudier à l'IUT Bordea
 
 Mise à part ma passion pour la création digitale, je suis avant tout une farouche enthousiaste de la **création en tout genre** (musique, dessin, cinéma, jeux vidéo...)
 
--LINK PROJET AVEC ETIQUETTE AUTRES- / Article classant toutes catégories mes trucs préférés
 
 **N'hésitez pas à me contacter  :**
 
@@ -33,7 +32,7 @@ Mise à part ma passion pour la création digitale, je suis avant tout une farou
 
 * Behance : https://www.behance.net/aurianesicard
 * Github : https://github.com/presqueasmr
-* (Ancien portfolio : )
+* Ancien portfolio : https://amsr-portfolio.netlify.app
 
 
 

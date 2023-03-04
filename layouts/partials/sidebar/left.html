@@ -54,6 +54,14 @@
                     </a>
                 </li>
             {{ end }}
+            {{/*  <li>
+                <a>
+                        {{ $icon := default "link" .Mail.Icon }}
+                        {{ with $icon }}
+                            {{ partial "helper/icon" . }}
+                        {{ end }}
+                </a>
+            </li>  */}}
         </ol>
     {{- end -}}
 
