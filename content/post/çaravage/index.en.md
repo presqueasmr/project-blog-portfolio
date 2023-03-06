@@ -11,7 +11,7 @@ categories:
 links:
   - title: Çaravage - Le Jeu
     description: Link to the project
-    website: https://www.bouillotteetculotte.fr/
+    website: https://caravage-bacchanight-2023.netlify.app/
     image: logo-caravage.png
 
 ---
