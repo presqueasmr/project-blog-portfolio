@@ -6,6 +6,7 @@ slug: motion-design-sociology
 image: helena-hertz-wWZzXlDpMog-unsplash.jpg
 categories:
     - Illustration & Graphic design
+    - Motion design
 links:
   - title: The Wooky's theory
     description: Watch the video

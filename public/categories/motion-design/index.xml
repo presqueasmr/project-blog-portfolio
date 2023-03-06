@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Motion design on Portfolio Auriane-Mirana</title>
+        <link>https://aurianemirana.com/categories/motion-design/</link>
+        <description>Recent content in Motion design on Portfolio Auriane-Mirana</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>fr</language>
+        <lastBuildDate>Wed, 01 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://aurianemirana.com/categories/motion-design/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Çaravage - Bacchanight</title>
+        <link>https://aurianemirana.com/post/caravage-bacchanight/</link>
+        <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
+        
+        <guid>https://aurianemirana.com/post/caravage-bacchanight/</guid>
+        <description>&lt;img src="https://aurianemirana.com/post/caravage-bacchanight/caravage.png" alt="Featured image of post Çaravage - Bacchanight" /&gt;&lt;h2 id=&#34;objectif&#34;&gt;Objectif&lt;/h2&gt;
+&lt;p&gt;Par groupes de 5 nous étions chargés de créer une expérience intéractive à l&amp;rsquo;occasion de la manifestation étudiante de la Bacchanight au musée des beaux arts de Bordeaux. Nous avons choisi de réaliser un jeu de combat en HTML/CSS/JS vanilla &lt;em&gt;mobile-first&lt;/em&gt;. Je me suis lancée dans le character design et sprite sheet ainsi que  dans l&amp;rsquo;animation des personnages.&lt;/p&gt;
+&lt;h2 id=&#34;lhistoire&#34;&gt;L&amp;rsquo;Histoire&lt;/h2&gt;
+&lt;p&gt;Le soir de la Bacchanight, la conservatrice du musée receva une lettre de menace parlant d&amp;rsquo;une &amp;ldquo;chandelle&amp;rdquo;. Elle ignore ce dont il s&amp;rsquo;agit, mais les autres tableaux du musée eux comprennent immédiatement qu&amp;rsquo;il s&amp;rsquo;agit de la menace d&amp;rsquo;un peintre jaloux de la flamme d&amp;rsquo;une peinture du caravage : MAÎTRE A LA CHANDELLE, &amp;ldquo;Saint Sébastien soigné par Irène&amp;rdquo;. Un joueur de luth d&amp;rsquo;un tableau hollandais décide alors de sortir de son tableau pour vaincre cette terrible menace.&lt;/p&gt;
+&lt;h2 id=&#34;les-outils-utilisés-&#34;&gt;Les outils utilisés :&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Adobe Illustrator&lt;/li&gt;
+&lt;li&gt;Adobe After Effects&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        </item>
+        <item>
+        <title>Motion design - Vulgarisation de théorie de sociologie</title>
+        <link>https://aurianemirana.com/post/motion-design-sociologie/</link>
+        <pubDate>Fri, 03 Dec 2021 00:00:00 +0000</pubDate>
+        
+        <guid>https://aurianemirana.com/post/motion-design-sociologie/</guid>
+        <description>&lt;img src="https://aurianemirana.com/post/motion-design-sociologie/motion-design-header.webp" alt="Featured image of post Motion design - Vulgarisation de théorie de sociologie" /&gt;&lt;h2 id=&#34;objectif&#34;&gt;Objectif&lt;/h2&gt;
+&lt;p&gt;Nous avions 2 semaines par groupe de 2, pour imaginer, concevoir et sonoriser un motion design dans le but de vulgariser une théorie sociologique de William I. Thomas. Nous avons appris à créer des moodboard, à storyboarder et à scénariser notre petit court-métrage. C&amp;rsquo;était également notre première approche d&amp;rsquo;After Effects. Nous avons opté pour la fusion absurde de l&amp;rsquo;univers d&amp;rsquo;Harry Potter et de Star Wars afin de capter l&amp;rsquo;attention de l&amp;rsquo;audience tout en restant humoritique.&lt;/p&gt;
+&lt;h2 id=&#34;les-outils-utilisés-&#34;&gt;Les outils utilisés :&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Photoshop&lt;/li&gt;
+&lt;li&gt;Illustrator&lt;/li&gt;
+&lt;li&gt;After Effects&lt;/li&gt;
+&lt;li&gt;Premiere Pro&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>

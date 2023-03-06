@@ -17,6 +17,16 @@
   </url><url>
     <loc>https://aurianemirana.com/post/caravage-bacchanight/</loc>
     <lastmod>2023-02-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://aurianemirana.com/en/post/caravage/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://aurianemirana.com/post/caravage-bacchanight/"
+                />
   </url><url>
     <loc>https://aurianemirana.com/categories/</loc>
     <lastmod>2023-02-01T00:00:00+00:00</lastmod>
@@ -45,6 +55,24 @@
                 rel="alternate"
                 hreflang="fr"
                 href="https://aurianemirana.com/categories/illustration-graphisme/"
+                />
+  </url><url>
+    <loc>https://aurianemirana.com/categories/motion-design/</loc>
+    <lastmod>2023-02-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://aurianemirana.com/en/categories/motion-design/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://aurianemirana.com/categories/motion-design/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://aurianemirana.com/categories/motion-design/"
                 />
   </url><url>
     <loc>https://aurianemirana.com/post/</loc>
@@ -226,6 +254,23 @@
                 rel="alternate"
                 hreflang="fr"
                 href="https://aurianemirana.com/categories/illustration-graphisme/"
+                />
+  </url><url>
+    <loc>https://aurianemirana.com/categories/motion-design/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://aurianemirana.com/en/categories/motion-design/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://aurianemirana.com/categories/motion-design/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://aurianemirana.com/categories/motion-design/"
                 />
   </url><url>
     <loc>https://aurianemirana.com/search/</loc>

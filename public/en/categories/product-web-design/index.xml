@@ -6,7 +6,24 @@
         <description>Recent content in Product &amp; web design on Portfolio Auriane-Mirana</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>fr</language>
-        <lastBuildDate>Thu, 17 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://aurianemirana.com/en/categories/product-web-design/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Wed, 01 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://aurianemirana.com/en/categories/product-web-design/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Çaravage - Bacchanight</title>
+        <link>https://aurianemirana.com/en/post/caravage/</link>
+        <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
+        
+        <guid>https://aurianemirana.com/en/post/caravage/</guid>
+        <description>&lt;img src="https://aurianemirana.com/en/post/caravage/caravage.png" alt="Featured image of post Çaravage - Bacchanight" /&gt;&lt;h2 id=&#34;objectives&#34;&gt;Objectives&lt;/h2&gt;
+&lt;p&gt;In groups of 5 we were had to create an interactive experience on the occasion of the Bacchanight student event at the Fine Arts Museum of Bordeaux. We chose to develop a fighting game in HTML/CSS/JS vanilla &lt;em&gt;mobile-first&lt;/em&gt;. I took part in the character design and sprite sheet as well as in the annimation of the characters with After Effects.&lt;/p&gt;
+&lt;h2 id=&#34;story&#34;&gt;Story&lt;/h2&gt;
+&lt;p&gt;On the evening of the Bacchanight, the curator of the museum receives a threatening letter mentioning a &amp;ldquo;candle&amp;rdquo;. She does not understand right away what it refers to , however the other paintings of the museum immediately grasp the greatness of the threat. Indeed a jealous painter menaces the flame of a caravaggio painting : MAITRE A LA CHANDELLE, &amp;ldquo;Saint Sebastian cared by Irene&amp;rdquo;. A lute player from a Dutch painting then decides to leave his painting to defeat this terrible threat.&lt;/p&gt;
+&lt;h2 id=&#34;tools-and-technologies-used&#34;&gt;Tools and technologies used&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Adobe Illustrator&lt;/li&gt;
+&lt;li&gt;Adobe After Effects&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        </item>
+        <item>
         <title>Greener_ : a hackathon by Reboot!</title>
         <link>https://aurianemirana.com/en/post/greener-reboot/</link>
         <pubDate>Thu, 17 Nov 2022 00:00:00 +0000</pubDate>

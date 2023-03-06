@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://aurianemirana.com/en/</loc>
-    <lastmod>2022-12-19T00:00:00+00:00</lastmod>
+    <lastmod>2023-02-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -14,6 +14,66 @@
                 hreflang="en"
                 href="https://aurianemirana.com/en/"
                 />
+  </url><url>
+    <loc>https://aurianemirana.com/en/post/caravage/</loc>
+    <lastmod>2023-02-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://aurianemirana.com/post/caravage-bacchanight/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://aurianemirana.com/en/post/caravage/"
+                />
+  </url><url>
+    <loc>https://aurianemirana.com/en/categories/</loc>
+    <lastmod>2023-02-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://aurianemirana.com/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://aurianemirana.com/en/categories/"
+                />
+  </url><url>
+    <loc>https://aurianemirana.com/en/categories/motion-design/</loc>
+    <lastmod>2023-02-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://aurianemirana.com/categories/motion-design/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://aurianemirana.com/categories/motion-design/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://aurianemirana.com/en/categories/motion-design/"
+                />
+  </url><url>
+    <loc>https://aurianemirana.com/en/post/</loc>
+    <lastmod>2023-02-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://aurianemirana.com/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://aurianemirana.com/en/post/"
+                />
+  </url><url>
+    <loc>https://aurianemirana.com/en/categories/product-web-design/</loc>
+    <lastmod>2023-02-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aurianemirana.com/en/about/</loc>
     <lastmod>2022-12-19T00:00:00+00:00</lastmod>
@@ -41,34 +101,8 @@
                 href="https://aurianemirana.com/en/page/"
                 />
   </url><url>
-    <loc>https://aurianemirana.com/en/categories/</loc>
-    <lastmod>2022-12-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://aurianemirana.com/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://aurianemirana.com/en/categories/"
-                />
-  </url><url>
     <loc>https://aurianemirana.com/en/categories/illustration-graphic-design/</loc>
     <lastmod>2022-12-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://aurianemirana.com/en/post/</loc>
-    <lastmod>2022-12-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://aurianemirana.com/post/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://aurianemirana.com/en/post/"
-                />
   </url><url>
     <loc>https://aurianemirana.com/en/post/les-souvenirs-d-orphee/</loc>
     <lastmod>2022-12-01T00:00:00+00:00</lastmod>
@@ -95,9 +129,6 @@
                 hreflang="en"
                 href="https://aurianemirana.com/en/post/greener-reboot/"
                 />
-  </url><url>
-    <loc>https://aurianemirana.com/en/categories/product-web-design/</loc>
-    <lastmod>2022-11-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aurianemirana.com/en/categories/web-writing/</loc>
     <lastmod>2022-11-17T00:00:00+00:00</lastmod>
