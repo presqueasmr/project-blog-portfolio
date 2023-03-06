@@ -7,13 +7,14 @@ image: caravage.png
 categories:
     - Illustration & Graphisme
     - Design web & produit
+    - Motion design
 
 
 ---
 
 ## Objectif
 
-Par groupes de 5 nous étions chargés de créer une expérience intéractive à l'occasion de la manifestation étudiante de la Bacchanight au musée des beaux arts de Bordeaux. Nous avons choisi de réaliser un jeu de combat en HTML/CSS/JS vanilla. Je me suis lancée dans le character design et sprite sheet ainsi que  dans l'annimation des personnages. 
+Par groupes de 5 nous étions chargés de créer une expérience intéractive à l'occasion de la manifestation étudiante de la Bacchanight au musée des beaux arts de Bordeaux. Nous avons choisi de réaliser un jeu de combat en HTML/CSS/JS vanilla *mobile-first*. Je me suis lancée dans le character design et sprite sheet ainsi que  dans l'animation des personnages. 
 
 ## L'Histoire
 
