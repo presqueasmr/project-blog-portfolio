@@ -9,7 +9,7 @@ categories:
   - Motion design
   - Product & web design
 links:
-  - title: Çaravage - Le Jeu
+  - title: Çaravage - The Game
     description: Link to the project
     website: https://caravage-bacchanight-2023.netlify.app/
     image: logo-caravage.png
